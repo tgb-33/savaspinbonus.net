@@ -1,0 +1,11 @@
+name = "savaspinbonus-net"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=savaspinbonus.net"
+HMAC_KEY = "e2d59ade4b437386c9e30ea1969e34a0c442c7ba1dc6e4d7319ce21db789f95a"
+COOKIE_NAME = "39s"
+PLAY_PATH = "join-now"
+BUTTON_ID = "p0002632ed91c06b9ce84d05bf6e2d4b0"
+GATE_SALT = "35411a4c3e5a9c08"
